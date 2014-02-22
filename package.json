@@ -1,6 +1,6 @@
 {
   "name": "homedir",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Platform agnostic user home directory path resolution for Node.js.",
   "main": "index.js",
   "scripts": {
