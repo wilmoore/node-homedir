@@ -1,4 +1,4 @@
-# homedir [![Build Status](https://travis-ci.org/wilmoore/node-homedir.png?branch=master)](https://travis-ci.org/wilmoore/node-homedir) [![Build Status](https://david-dm.org/wilmoore/homedir.png)](https://david-dm.org/wilmoore/homedir) [![NPM version](https://badge.fury.io/js/homedir.png)](http://badge.fury.io/js/homedir)
+# homedir [![Build Status](https://travis-ci.org/wilmoore/node-homedir.png?branch=master)](https://travis-ci.org/wilmoore/node-homedir) [![NPM version](https://badge.fury.io/js/homedir.png)](http://badge.fury.io/js/homedir)
 
   Platform agnostic user home directory path resolution (i.e. `man 5 passwd`) for [Node.js][].
 
