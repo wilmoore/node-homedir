@@ -1,5 +1,5 @@
 
-0.2.0 / 2014-02-21
+0.3.0 / 2014-02-21
 ==================
 
-  * stable release.
+  * first stable release.

@@ -11,6 +11,8 @@
     "user",
     "home",
     "homedir",
+    "home_dir",
+    "passwd(5)",
     "username",
     "userpath"
   ],
@@ -21,6 +23,6 @@
   "author": "Wil Moore III <wil.moore@wilmoore.com> (http://github.com/wilmoore)",
   "license": "MIT",
   "devDependencies": {
-    "tape": "~2.5.0"
+    "tape": "*"
   }
 }
