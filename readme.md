@@ -1,6 +1,6 @@
 # homedir
 
-[![Build Status](http://img.shields.io/travis/wilmoore/node-homedir.svg)](https://travis-ci.org/wilmoore/node-homedir) [![NPM version](http://img.shields.io/npm/v/node-homedir.svg)](https://www.npmjs.org/package/node-homedir) [![NPM downloads](http://img.shields.io/npm/dm/node-homedir.svg)](https://www.npmjs.org/package/node-homedir) [![LICENSE](http://img.shields.io/npm/l/node-homedir.svg)](license)
+[![Build Status](http://img.shields.io/travis/wilmoore/node-homedir.svg)](https://travis-ci.org/wilmoore/node-homedir) [![NPM version](http://img.shields.io/npm/v/homedir.svg)](https://www.npmjs.org/package/homedir) [![NPM downloads](http://img.shields.io/npm/dm/homedir.svg)](https://www.npmjs.org/package/homedir) [![LICENSE](http://img.shields.io/npm/l/homedir.svg)](license)
 
   Platform agnostic user home directory path resolution (i.e. `man 5 passwd`) for [Node.js][].
 
