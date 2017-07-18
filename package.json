@@ -22,6 +22,7 @@
   },
   "author": "Wil Moore III <wil.moore@wilmoore.com> (http://github.com/wilmoore)",
   "license": "MIT",
+  "types": "index.d.ts",
   "devDependencies": {
     "tape": "*"
   }
